@@ -1,3 +1,4 @@
-# My Awesome Book
+# 介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书记录了自己在使用Java中学会的一些技巧和问题。希望能帮助大家高效的开发 
+
