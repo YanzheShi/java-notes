@@ -21,9 +21,9 @@ List<Integer> list = new ArrayList<>();
 /*
 redundance
 if (a > b) {
-flag = true;
+    flag = true;
 } else {
-flag = false;
+    flag = false;
 }
 */
         
