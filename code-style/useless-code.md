@@ -18,6 +18,9 @@ List<Integer> list = new ArrayList<>();
 每个逻辑表达式都有返回值, 要么是 true, 要么是 false. 如果想保存或返回布尔类型值, 不需要用 **if** 来判断.
 例如:
 ```
+int a = 1;
+int b = 2;
+boolean flag;
 /*
 redundance
 if (a > b) {
