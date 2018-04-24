@@ -8,7 +8,7 @@ if(a != null && a.equls(b)){
 }
 
 //JDK 1.7 之后
-if(Object.equals(a, b)){
+if(Objects.equals(a, b)){
     ...
 }
 ```
