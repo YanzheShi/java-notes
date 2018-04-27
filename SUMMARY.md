@@ -7,4 +7,7 @@
   * [封装类型的计算](type&data/final.md)
 * [代码风格](code-style/README.md)
   * [避免冗余代码](code-style/useless-code.md)
+  * [注释的使用](code-style/comments.md)
+* [工具类的使用](utils/README.md)
+  * [判断两个对象是否相等](pan-duan-liang-ge-dui-xiang-shi-fou-xiang-deng.md)
 
