@@ -11,5 +11,5 @@
   * [oop](code-style/oop.md)
 * [工具类的使用](utils/README.md)
   * [判断两个对象是否相等](utils/compare-two-object.md)
-  * [Java 新特性](java-new-features.md)
+  * [Java 新特性](utils/java-new-features.md)
 
