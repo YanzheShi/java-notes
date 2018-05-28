@@ -13,4 +13,6 @@
   * [判断两个对象是否相等](utils/compare-two-object.md)
   * [Java 新特性](utils/java-new-features.md)
   * [一种更简单的初始化方式](utils/easy-initialization.md)
+* [其他](other/README.md)
+  * [查看源码](other/cha-kan-yuan-ma.md)
 
