@@ -9,6 +9,7 @@
   * [避免冗余代码](code-style/useless-code.md)
   * [注释的使用](code-style/comments.md)
   * [面向对象编程](code-style/oop.md)
+  * [提高代码可读性](code-style/readability.md)
 * [工具与技巧](utils/README.md)
   * [判断两个对象是否相等](utils/compare-two-object.md)
   * [Java 新特性](utils/java-new-features.md)
