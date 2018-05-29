@@ -19,4 +19,4 @@
 
 ##参考资料
 
-[谷歌代码规范](https://github.com/YanzheShi/java-new-features)
+[谷歌代码规范](http://www.hawstein.com/posts/google-java-style.html)
