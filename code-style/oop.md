@@ -2,8 +2,6 @@
 
 虽然Java是面向对象语言， 但是使用面向对象语言并不代表着代码就是面向对象的。大部分人写的代码仍然是面向过程的。
 
-本文是从自己所做思维导图中提炼的， 更多面向对象编程知识请直接查看[该文档](https://github.com/YanzheShi/mind-mapping/blob/master/%E4%BB%A3%E7%A0%81%E8%AE%BE%E8%AE%A1/OOP.xmind)。
-
 ##面向过程与面向对象方法（函数）的区别
 
 1. 面向对象的方法用来解决一类问题； 而面向过程的函数用来抽象或复用一种处理逻辑
@@ -42,3 +40,8 @@
 
 
 
+---
+
+## 参考资料
+
+[OOP 思维导图](https://github.com/YanzheShi/mind-mapping/blob/master/%E4%BB%A3%E7%A0%81%E8%AE%BE%E8%AE%A1/OOP.pdf)
